@@ -2,7 +2,7 @@
 - I’m interested in Java, Lua
 - Application Developer
 - Studying abroad to Canada -- 12 / 29
-- How to reach me -- 준영#4842 Discord
+- How to reach me -- 준영#1629 Discord
 
 <!---
 JunYoung0731/JunYoung0731 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
