@@ -1,7 +1,3 @@
-- Hi, I’m JunYoung Living In Korea
-- I’m interested in Java
-- Application Developer
-- Studying abroad to Canada -- 12 / 29
 - How to reach me -- 준영#1629 Discord
 
 <!---
