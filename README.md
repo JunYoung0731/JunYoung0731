@@ -1,4 +1,4 @@
-- How to reach me -- 준영#1629 Discord
+- How to reach me -- 준영#5800 Discord
 
 <!---
 JunYoung0731/JunYoung0731 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
